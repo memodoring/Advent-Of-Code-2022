@@ -1,1 +1,1 @@
-/Users/doringm/dev/2022adventofcode/day6/target/debug/day6: /Users/doringm/dev/2022adventofcode/day6/src/main.rs
+/home/memodoring/dev/Advent-Of-Code-2022/day6/target/debug/day6: /home/memodoring/dev/Advent-Of-Code-2022/day6/src/main.rs
